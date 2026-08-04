@@ -1,33 +1,42 @@
 class Solution {
-    public void nextPermutation(int[] nums) {
-        int n = nums.length;
-
-        int i = n - 2;
-        while ( i >= 0 && nums[i] >= nums[i+1]) {
-            i--;
-        }
-
-        if ( i >= 0) {
-            int j = n - 1;
-            while ( nums[j] <= nums[i]) {
-                j--;
-            }
-            swap (nums , i , j);
-        }
-
-        reverse (nums ,i + 1, n - 1);
-    }
-    private void swap ( int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
-    }
-
-    private void reverse (int[] nums, int left, int right) {
-        while ( left < right ) {
-            swap(nums, left, right);
-            left++;
-            right--;
-        }
-    }
+	void nextPermutation(int[] arr) {
+		// code here
+		int pivot = -1;
+		int n = arr.length;
+		
+		for (int i = n - 2; i >= 0; i--) {
+			if (arr[i] < arr[i + 1]) {
+				pivot = i;
+				break;
+			}
+		}
+		
+		if (pivot == - 1) {
+			reverse(arr, 0, n - 1);
+			return;
+		}
+		
+		for (int i = n - 1; i >= 0; i--) {
+			if (arr[i] > arr[pivot]) {
+				int temp = arr[i];
+				arr[i] = arr[pivot];
+				arr[pivot] = temp;
+				break;
+			}
+		}
+		
+		reverse(arr, pivot + 1, n - 1);
+		
+	}
+	
+	void reverse (int[] arr, int left, int right) {
+		while (left < right) {
+			int temp = arr[left];
+			arr[left] = arr[right];
+			arr[right] = temp;
+			
+			left++;
+			right--;
+		}
+	}
 }
