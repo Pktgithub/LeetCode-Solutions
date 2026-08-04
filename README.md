@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0496-next-greater-element-i](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
