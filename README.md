@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
