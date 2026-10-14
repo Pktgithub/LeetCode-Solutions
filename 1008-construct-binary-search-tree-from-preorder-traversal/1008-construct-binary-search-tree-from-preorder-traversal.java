@@ -18,6 +18,7 @@ class Solution {
     public TreeNode bstFromPreorder(int[] preorder) {
         return helper(preorder, Integer.MAX_VALUE);
     }
+
     private TreeNode helper(int[] preorder, int bound) {
         if (indx == preorder.length || preorder[indx] > bound) {
             return null;
@@ -27,6 +28,7 @@ class Solution {
         indx++;
 
         root.left = helper(preorder, root.val);
+
         root.right = helper(preorder, bound);
 
         return root;
