@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
