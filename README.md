@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 ## Stack
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -372,8 +375,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Pktgithub/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
